@@ -1,20 +1,14 @@
-# shopify-server-starter
+# Shopify Typesafe GraphQL 
 
 To install dependencies:
 
 ```bash
-bun install
-```
-
-To run:
-
-```bash
-bun run index.ts
+npm/yarn/pnpm/bun run install
 ```
 
 To generate the correct graphql types:
 
 ```bash
-bun run graphql-codegen
+npm/yarn/pnpm/bun run graphql-codegen
 ```
 
