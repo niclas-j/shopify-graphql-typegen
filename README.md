@@ -3,12 +3,18 @@
 To install dependencies:
 
 ```bash
-npm/yarn/pnpm/bun run install
+npm run install
+yarn install
+pnpm install
+bun install
 ```
 
 To generate the correct graphql types:
 
 ```bash
-npm/yarn/pnpm/bun run graphql-codegen
+npm run codegen
+yarn graphql-codegen
+pnpm graphql-codegen
+bun run graphql-codegen
 ```
 
